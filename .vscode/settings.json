@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./my_market/programs/my_market/Cargo.toml"
+    ]
+}
